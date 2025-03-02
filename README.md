@@ -1,0 +1,1 @@
+# avaliacao-de-dados-obtidos-por-diferentes-metodos-de-amostragem
